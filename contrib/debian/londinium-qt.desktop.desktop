@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Londinium
+Comment=Londinium P2P Cryptocurrency
+Exec=londinium-qt %u
+Terminal=false
+Type=Application
+Icon=londinium128
+MimeType=x-scheme-handler/londinium;
+Categories=Office;Finance;
+Name[en_US]=londinium-qt.desktop
