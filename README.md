@@ -6,9 +6,7 @@ Londinium (LON) is a sustainable cryptocurrency modeled after Satoshi Nakamotoâ€
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftTX_.
 - Decentralized blockchain voting providing for consensus based advancement of the current Masternode
   technology used to secure the network and provide the above features, each Masternode is secured
-  with a collateral of 2,500 LON.
-
-More information at [savebitcoin.io](http://www.savebitcoin.io)
+  with a collateral of 2,000 LON.
 
 ### Coin Specs
 | Block Time                  | 60 Seconds      |
